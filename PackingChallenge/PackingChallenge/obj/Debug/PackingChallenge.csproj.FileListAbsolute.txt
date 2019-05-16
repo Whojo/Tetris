@@ -1,0 +1,6 @@
+C:\Users\Guillaume\Documents\Prog\csharp-tp14-guillaume1.thomas\PackingChallenge\PackingChallenge\bin\Debug\PackingChallenge.exe
+C:\Users\Guillaume\Documents\Prog\csharp-tp14-guillaume1.thomas\PackingChallenge\PackingChallenge\bin\Debug\PackingChallenge.pdb
+C:\Users\Guillaume\Documents\Prog\csharp-tp14-guillaume1.thomas\PackingChallenge\PackingChallenge\obj\Debug\PackingChallenge.csprojAssemblyReference.cache
+C:\Users\Guillaume\Documents\Prog\csharp-tp14-guillaume1.thomas\PackingChallenge\PackingChallenge\obj\Debug\PackingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Guillaume\Documents\Prog\csharp-tp14-guillaume1.thomas\PackingChallenge\PackingChallenge\obj\Debug\PackingChallenge.exe
+C:\Users\Guillaume\Documents\Prog\csharp-tp14-guillaume1.thomas\PackingChallenge\PackingChallenge\obj\Debug\PackingChallenge.pdb
